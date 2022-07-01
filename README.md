@@ -10,7 +10,7 @@
 * 🎯 Learning everyday, currently focusing on front-end development.
 * 📌 I’m always looking for challenging work oppurtunities ahead.
 * ✨ Fun Fact: I love music🎵 and travelling🤩. 
-* 📝 How to reach me: Snigdha Shree | [Linkedin](https://www.linkedin.com/in/snigdha-shree-48227b18a)
+* 📝 How to reach me: [Linkedin](https://www.linkedin.com/in/snigdha-shree-48227b18a)
 
 
 ### 🛠️ Languages and Tools: 
