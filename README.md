@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/HPT3upIBXvFy9JOkkr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/lemon-lemony-lemonly-HPT3upIBXvFy9JOkkr">via GIPHY</a></p>
+<div id ="header" align="center">
+  <img src="https://media.giphy.com/media/HPT3upIBXvFy9JOkkr/giphy.gif" width="50"/>
+</div>
 
 # **Hi there, I'm Snigdha** 👋
 
