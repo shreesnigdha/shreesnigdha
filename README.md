@@ -10,14 +10,11 @@
 * 🎯 Learning everyday, currently focusing on front-end development.
 * 📌 I’m always looking for challenging work oppurtunities ahead.
 * ✨ Fun Fact: I love music🎵 and travelling🤩. 
-
-
-### Connect with me:  
-#### Snigdha Shree | [Linkedin](https://www.linkedin.com/in/snigdha-shree-48227b18a)
+* 📝 How to reach me: Snigdha Shree | [Linkedin](https://www.linkedin.com/in/snigdha-shree-48227b18a)
 
 
 ### 🛠️ Languages and Tools: 
-<br>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40">
@@ -28,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
 </div>
+
 
 
 #### Thanks for Visiting!!
