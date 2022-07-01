@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/HPT3upIBXvFy9JOkkr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/lemon-lemony-lemonly-HPT3upIBXvFy9JOkkr">via GIPHY</a></p>
+
 # **Hi there, I'm Snigdha** 👋
 
 ## 🔷 A Learner, Developer, and Explorer !!
@@ -16,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
